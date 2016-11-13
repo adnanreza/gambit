@@ -1,5 +1,5 @@
 dnl
-dnl This file is part of Gambit
+dnl This file is part of Gambit 22
 dnl Copyright (c) 1994-2014, The Gambit Project (http://www.gambit-project.org)
 dnl
 dnl FILE: configure.in
